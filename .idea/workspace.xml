@@ -1,21 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="773d1b8d-cf22-4316-8f85-7e027fe67ea7" name="Changes" comment="Stage 4 entries">
-      <change afterPath="$PROJECT_DIR$/src/platform/controllers/ApiUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/platform/controllers/HTMLController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/platform/persistence/RepositoryService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/platform/persistence/SnippetRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/templates/submitCodeSnippet.html" afterDir="false" />
+    <list default="true" id="773d1b8d-cf22-4316-8f85-7e027fe67ea7" name="Changes" comment="Stage 4 resources updated">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/platform/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/platform/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/platform/application.properties.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/application.properties.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/platform/controllers/ApiController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/platform/controllers/ApiController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/templates/submitCodeSnippet.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/templates/submitCodeSnippet.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -41,9 +56,15 @@
   "keyToString": {
     "DefaultHtmlFileTemplate": "HTML File",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\emlae\IdeaProjects\CodeSharing1\src\resources" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -81,7 +102,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677125067190</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Stage 4 resources updated">
+      <created>1677125929103</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1677125929103</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -100,6 +128,7 @@
     <MESSAGE value="Stage 4 Resources" />
     <MESSAGE value="Stage 4 controller" />
     <MESSAGE value="Stage 4 entries" />
-    <option name="LAST_COMMIT_MESSAGE" value="Stage 4 entries" />
+    <MESSAGE value="Stage 4 resources updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="Stage 4 resources updated" />
   </component>
 </project>
