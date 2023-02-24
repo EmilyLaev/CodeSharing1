@@ -5,15 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="773d1b8d-cf22-4316-8f85-7e027fe67ea7" name="Changes" comment="Stage five Comments">
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/platform/controllers/ApiUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/platform/controllers/ApiUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/platform/controllers/HTMLController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/platform/controllers/HTMLController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/platform/entries/CodeSnippet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/platform/entries/CodeSnippet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/platform/persistence/RepositoryService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/platform/persistence/RepositoryService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/platform/persistence/SnippetRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/platform/persistence/SnippetRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/resources/templates/submitCodeSnippet.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/templates/submitCodeSnippet.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/platform/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/platform/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -143,7 +135,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677201792593</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Stage five Comments">
+      <created>1677220272865</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1677220272865</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
