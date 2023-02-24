@@ -1,3 +1,4 @@
+<!-- This HTML document defines a web page for submitting a code snippet. -->
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml"
       xmlns:th="http://www.thymeleaf.org" lang="en">
@@ -8,13 +9,18 @@
 </head>
 <body>
 <label>Time limit (in minutes): <input id="time_restriction" type="text"/></label>
+<!-- This input element is for entering a time limit in minutes. -->
 <br>
 <label>Views limit: <input id="views_restriction" type="text"/></label>
+<!-- This input element is for entering a limit on the number of views. -->
 <br>
 <label><b>Header</b><br><textarea id="snippet_header">Untitled</textarea></label>
+<!-- This textarea element is for entering a header for the code snippet, with the default text "Untitled". -->
 <br>
 <label><b>Code snippet</b><br><textarea id="code_snippet">// Write your code here</textarea></label>
+<!-- This textarea element is for entering the code snippet, with the default text "// Write your code here". -->
 <br>
 <button id="send_snippet" type="submit" onclick="send()">Submit</button>
+<!-- This button element submits the code snippet entered by the user. -->
 </body>
 </html>
